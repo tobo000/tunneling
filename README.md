@@ -11,7 +11,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ### UDP
 ```
-wget https://raw.githubusercontent.com/dit1304/udp/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
+wget https://raw.githubusercontent.com/tobo000/tunneling/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
 ```
 
 ### WARP
