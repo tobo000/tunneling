@@ -34,8 +34,8 @@ wget https://raw.githubusercontent.com/dit1304/VVIP/main/warp.sh && chmod +x war
 
 ### `WARNING !`
 ```
-Jika Mendapatkan Status Service Off
-Silahkan Restart Service.
-Jika Statsus Service Masih Off
-Silahkan Reboot vps kalian
+If You Get Service Off Status
+Please Restart Service.
+If Service Status Still Off
+Please Reboot your VPS
 ```
